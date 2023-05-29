@@ -11,8 +11,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joel-revuelta&theme=dark&include_all_commits=true&count_private=false&show_icons=true&locale=en&layout=compact" alt="joel-revuelta" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joel-revuelta&theme=dark&include_all_commits_true&count_private=false&show_icons=true&locale=en" alt="joel-revuelta" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joel-revuelta&theme=dark&include_all_commits_true" alt="joel-revuelta" /></p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joel-revuelta&label=Profile%20views&color=0e75b6&style=flat" alt="joel-revuelta" /> </p>
