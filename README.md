@@ -38,8 +38,8 @@ AI contract generation for freelancers and small agencies in Spain. Turns video 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,py,ts,go,java,angular,nextjs,nestjs,fastapi,spring,docker,git,linux,postgres&theme=dark&perline=8" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,go,java,angular,nextjs,nestjs,fastapi,spring,docker,git,linux,postgres&theme=light&perline=8" alt="C, C++, Python, TypeScript, Go, Java, Angular, Next.js, NestJS, FastAPI, Spring Boot, Docker, Git, Linux and PostgreSQL" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpy%2Cts%2Cgo%2Cjava%2Cangular%2Cnextjs%2Cnestjs%2Cfastapi%2Cspring%2Cdocker%2Cgit%2Clinux%2Cpostgres&amp;theme=dark&amp;perline=8" />
+    <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Cpy%2Cts%2Cgo%2Cjava%2Cangular%2Cnextjs%2Cnestjs%2Cfastapi%2Cspring%2Cdocker%2Cgit%2Clinux%2Cpostgres&amp;theme=light&amp;perline=8" alt="C, C++, Python, TypeScript, Go, Java, Angular, Next.js, NestJS, FastAPI, Spring Boot, Docker, Git, Linux and PostgreSQL" />
   </picture>
 </p>
 
