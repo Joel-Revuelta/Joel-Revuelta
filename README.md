@@ -4,7 +4,7 @@
 
 Software engineer in Barcelona. I build full-stack products and high-performance systems in TypeScript, Python and C++.
 
-I'm completing a Master's in Software Development and Information Technologies at EPITECH and Koç University. I worked at NTT Data as a web developer intern on a blood and tissue bank management system.
+I'm completing a Master's in Software Development and Information Technologies at EPITECH and Koç University. I worked at NTT Data as a software developer intern on a blood and tissue bank management system.
 
 <p align="center">
   <a href="https://joel-revuelta.github.io"><img src="https://img.shields.io/badge/Portfolio-131824?style=flat-square&logo=githubpages&logoColor=5ab9fc" alt="Portfolio" /></a>
