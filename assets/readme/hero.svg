@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="hero-title hero-desc">
+  <title id="hero-title">Joel Revuelta — Software engineer in Barcelona</title>
+  <desc id="hero-desc">Joel Revuelta builds full-stack products and high-performance systems in TypeScript, Python and C++.</desc>
+
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#5ab9fc" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#5ab9fc" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame">
+      <rect width="1200" height="320" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="#0a0d14"/>
+
+  <g clip-path="url(#frame)">
+    <circle cx="952" cy="160" r="250" fill="url(#glow)"/>
+
+    <g transform="translate(952 160)" fill="none">
+      <ellipse rx="188" ry="63" transform="rotate(-18)" stroke="#5ab9fc" stroke-opacity="0.55" stroke-width="1.5"/>
+      <ellipse rx="150" ry="52" transform="rotate(24)" stroke="#e9edf3" stroke-opacity="0.20" stroke-width="1.5"/>
+      <circle r="112" stroke="#e9edf3" stroke-opacity="0.08" stroke-width="1.5"/>
+      <g transform="rotate(-18)">
+        <circle cx="188" cy="0" r="5.5" fill="#e9edf3" stroke="none"/>
+      </g>
+      <g transform="rotate(24)">
+        <circle cx="-150" cy="0" r="4.5" fill="#5ab9fc" stroke="none"/>
+      </g>
+      <circle r="26" stroke="#5ab9fc" stroke-opacity="0.35" stroke-width="1.5"/>
+      <circle r="10" fill="#5ab9fc" stroke="none"/>
+    </g>
+
+    <g fill="#e9edf3">
+      <circle cx="760" cy="74" r="2" opacity="0.4"/>
+      <circle cx="1080" cy="240" r="2.5" opacity="0.35"/>
+      <circle cx="1140" cy="92" r="1.8" opacity="0.5"/>
+      <circle cx="840" cy="272" r="2" opacity="0.3"/>
+      <circle cx="1040" cy="42" r="1.6" opacity="0.45"/>
+    </g>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="23.25" fill="none" stroke="#1f2735" stroke-width="1.5"/>
+
+  <g transform="translate(64 74)">
+    <circle cx="8" cy="0" r="4.5" fill="#5ab9fc"/>
+    <ellipse cx="8" cy="0" rx="15" ry="5.5" fill="none" stroke="#e9edf3" stroke-opacity="0.6" stroke-width="1.3" transform="rotate(-24 8 0)"/>
+  </g>
+  <text x="100" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="1.8" fill="#8b93a7">SOFTWARE ENGINEER · BARCELONA</text>
+
+  <text x="64" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="600" letter-spacing="-2.4" fill="#e9edf3">Joel Revuelta</text>
+
+  <text x="64" y="210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#c6cddb">Full-stack products and high-performance systems.</text>
+
+  <rect x="64" y="236" width="42" height="2" rx="1" fill="#5ab9fc"/>
+  <text x="64" y="274" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#8b93a7">TypeScript · Python · C++</text>
+</svg>

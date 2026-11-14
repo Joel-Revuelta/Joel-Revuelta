@@ -1,20 +1,48 @@
-<h1 align="center">Hi 👋, I'm Joel</h1>
-<h3 align="center">A passionate software developer</h3>
-
-- 📫 How to reach me **joel.revuel@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/joel-revuelta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joel-revuelta" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Joel Revuelta — software engineer in Barcelona, building full-stack products and high-performance systems" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Software engineer in Barcelona. I build full-stack products and high-performance systems in TypeScript, Python and C++.
 
+I'm completing a Master's in Software Development and Information Technologies at EPITECH and Koç University. I worked at NTT Data as a web developer intern on a blood and tissue bank management system.
 
+<p align="center">
+  <a href="https://joel-revuelta.github.io"><img src="https://img.shields.io/badge/Portfolio-131824?style=flat-square&logo=githubpages&logoColor=5ab9fc" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/joel-revuelta"><img src="https://img.shields.io/badge/LinkedIn-131824?style=flat-square&logo=linkedin&logoColor=5ab9fc" alt="LinkedIn" /></a>
+  <a href="mailto:joel.revuel@gmail.com"><img src="https://img.shields.io/badge/Email-131824?style=flat-square&logo=gmail&logoColor=5ab9fc" alt="Email" /></a>
+  <a href="https://joel-revuelta.github.io/joel-revuelta-cv.pdf"><img src="https://img.shields.io/badge/CV-131824?style=flat-square&logo=adobeacrobatreader&logoColor=5ab9fc" alt="Curriculum vitae (PDF)" /></a>
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joel-revuelta&show_icons=true&theme=dark&locale=en&layout=compact" alt="joel-revuelta" /></p>
+## Selected work
 
+### [RayTracer](https://github.com/Joel-Revuelta/ray-tracer)
 
+[![Ray-traced glass flowers over a mirror lagoon](./assets/projects/raytracer.webp)](https://github.com/Joel-Revuelta/ray-tracer)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=joel-revuelta&label=Profile%20views&color=0e75b6&style=flat" alt="joel-revuelta" /> </p>
+C++20 path tracer with CPU and CUDA renderers, a runtime plugin architecture and 34 scenes rendered up to 8K.
+
+### [FAS](https://fas-ai.net)
+
+[![FAS landing page showing the headline Transform verbal agreements into professional contracts](./assets/projects/fas.webp)](https://fas-ai.net)
+
+AI contract generation for freelancers and small agencies in Spain. Turns video call transcripts into reviewable contract drafts. Go, PostgreSQL, Next.js and AI.
+
+**More work**
+
+- [AREA](https://github.com/Joel-Revuelta/area) — IFTTT-style automation platform built with FastAPI, PostgreSQL, Next.js and React Native.
+- [Syscall Sandbox](https://github.com/Joel-Revuelta/syscall-sandbox) — Linux syscall sandbox using eBPF, a kernel module and ptrace.
+- [Torch](https://github.com/Joel-Revuelta/Torch) — neural-network chessboard analyzer working from FEN positions.
+- [City Matcher](https://joel-revuelta.github.io/CityMatcher) — Angular app that uses AI to match people with cities; winner of the 2024 Extia Hackathon.
+
+## Stack
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,py,ts,go,java,angular,nextjs,nestjs,fastapi,spring,docker,git,linux,postgres&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,go,java,angular,nextjs,nestjs,fastapi,spring,docker,git,linux,postgres&theme=light&perline=8" alt="C, C++, Python, TypeScript, Go, Java, Angular, Next.js, NestJS, FastAPI, Spring Boot, Docker, Git, Linux and PostgreSQL" />
+  </picture>
+</p>
+
+## Background
+
+EPITECH & Koç University · NTT Data · Extia Hackathon winner 2024 · Barcelona, Spain
