@@ -32,7 +32,7 @@ AI contract generation for freelancers and small agencies in Spain. Turns video 
 - [AREA](https://github.com/Joel-Revuelta/area) — IFTTT-style automation platform built with FastAPI, PostgreSQL, Next.js and React Native.
 - [Syscall Sandbox](https://github.com/Joel-Revuelta/syscall-sandbox) — Linux syscall sandbox using eBPF, a kernel module and ptrace.
 - [Torch](https://github.com/Joel-Revuelta/Torch) — neural-network chessboard analyzer working from FEN positions.
-- [City Matcher](https://github.com/Joel-Revuelta/CityMatcher) — Next.js relocation decision engine ranking 42 European cities by budget, climate, safety, healthcare and work. Rebuilt from the 2024 Extia Hackathon-winning Angular prototype; deterministic, sourced and documented.
+- [City Matcher](https://city-matcher-sigma.vercel.app) — Next.js relocation decision engine ranking 42 European cities by budget, climate, safety, healthcare and work. Rebuilt from the 2024 Extia Hackathon-winning Angular prototype; deterministic, sourced and documented. [Source](https://github.com/Joel-Revuelta/CityMatcher).
 
 ## Stack
 
